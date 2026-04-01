@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <nav>
+        <div class="navLinks">
+          <a href="index.html">Accueil</a>
+          <a href="massages-soins.html">Soins</a>
+          <a href="formations-massotherapie.html">Formations</a>
+          <a href="a-propos-massotherapeute-virginiedelayer.html"
+            >Ma démarche</a
+          >
+        </div>
+        <img src="" alt="" class="logo" />
+        <div class="socials">
+          <a href="mailto:virginiedelayerbienetre@gmail.com" class="btn"
+            >Me contacter</a
+          >
+        </div>
+      </nav>
+    </header>
+
+    <script src="js/script.js"></script>
+
+    <!-- scroll doux librairie -->
+    <script src="https://cdn.jsdelivr.net/npm/@studio-freight/lenis@latest/dist/lenis.min.js"></script>
+    <script>
+      const lenis = new Lenis();
+
+      function raf(time) {
+        lenis.raf(time);
+        requestAnimationFrame(raf);
+      }
+
+      requestAnimationFrame(raf);
+    </script>
+
+    <!-- librairie aos -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+  </body>
+</html>
