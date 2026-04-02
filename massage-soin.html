@@ -1,18 +1,20 @@
 <!doctype html>
 <html lang="fr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="css/style.css" />
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
-  </head>
-  <body>
-    <!-- Hero -->
 
-    <header class="paddingSection hero_Soin" id="hero">
-      <!-- Navbar -->
-      <!-- <a
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+</head>
+
+<body>
+  <!-- Hero -->
+
+  <header class="paddingSection hero_Soin" id="hero">
+    <!-- Navbar -->
+    <!-- <a
         href="https://www.instagram.com/virginiedelayerbienetre?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
         class="instagram"
       >
@@ -37,74 +39,69 @@
           </g>
         </svg>
       </a> -->
-      <nav>
-        <div class="navLinks">
-          <a href="index.html">Accueil</a>
-          <a href="massages-soins.html">Soins</a>
-          <a href="formations-massotherapie.html">Formations</a>
-          <a href="a-propos-massotherapeute-virginiedelayer.html"
-            >Ma démarche</a
-          >
-        </div>
-        <img src="" alt="" class="logo" />
-        <div class="socials">
-          <a href="mailto:virginiedelayerbienetre@gmail.com" class="btn"
-            >Me contacter</a
-          >
-        </div>
-      </nav>
-
-      <!-- Content -->
-      <a href="massages-soins.html#articles" class="link">← Retour</a>
-
-      <div class="container">
-        <h1 id="title"></h1>
-        <p class="mb-6vh" id="duree"></p>
-        <div class="mb-6vh" id="content"></div>
-        <ul id="tag-wrapper" class="card-wrapper"></ul>
+    <nav>
+      <div class="navLinks">
+        <a href="index.html">Accueil</a>
+        <a href="massages-soins.html">Soins</a>
+        <a href="formations-massotherapie.html">Formations</a>
+        <a href="a-propos-massotherapeute-virginiedelayer.html">Ma démarche</a>
       </div>
-    </header>
-
-    <!-- Section Cta -->
-    <section id="cta">
-      <div class="container small">
-        <h2>
-          Me contacter
-          <span> Pret a vous lancer ? </span>
-        </h2>
-        <p class="mb-6vh">
-          Souhaitez-vous discuter de vos besoins en bien-être ou en savoir plus
-          sur les services et programmes d'apprentissage ? Laissez-moi votre
-          numéro, et je vous appellerais pour une conversation personnalisée. Je
-          crois en une approche directe et personnelle pour répondre au mieux à
-          vos attentes
-        </p>
-        <a href="mailto:virginiedelayerbienetre@gmail.com" class="btn"
-          >Me contacter</a
-        >
+      <img src="" alt="" class="logo" />
+      <div class="socials">
+        <a href="mailto:virginiedelayerbienetre@gmail.com" class="btn">Me contacter</a>
       </div>
-    </section>
+    </nav>
 
-    <script src="js/script.js"></script>
-    <script src="js/soins.js"></script>
-    <script src="js/soin.js"></script>
-    <!-- scroll doux librairie -->
-    <script src="https://cdn.jsdelivr.net/npm/@studio-freight/lenis@latest/dist/lenis.min.js"></script>
-    <script>
-      const lenis = new Lenis();
+    <!-- Content -->
+    <a href="massages-soins.html#articles" class="link">← Retour</a>
 
-      function raf(time) {
-        lenis.raf(time);
-        requestAnimationFrame(raf);
-      }
+    <div class="container">
+      <h1 id="title"></h1>
+      <p class="mb-6vh" id="duree"></p>
+      <div class="mb-6vh" id="content"></div>
+      <ul id="tag-wrapper" class="card-wrapper"></ul>
+    </div>
+  </header>
 
+  <!-- Section Cta -->
+  <section id="cta">
+    <div class="container small">
+      <h2>
+        Me contacter
+        <span> Pret a vous lancer ? </span>
+      </h2>
+      <p class="mb-6vh">
+        Souhaitez-vous discuter de vos besoins en bien-être ou en savoir plus
+        sur les services et programmes d'apprentissage ? Laissez-moi votre
+        numéro, et je vous appellerais pour une conversation personnalisée. Je
+        crois en une approche directe et personnelle pour répondre au mieux à
+        vos attentes
+      </p>
+      <a href="mailto:virginiedelayerbienetre@gmail.com" class="btn">Me contacter</a>
+    </div>
+  </section>
+
+  <script src="js/script.js"></script>
+  <!-- <script src="js/soins.js"></script> -->
+  <script src="js/soin.js"></script>
+  <!-- scroll doux librairie -->
+  <script src="https://cdn.jsdelivr.net/npm/@studio-freight/lenis@latest/dist/lenis.min.js"></script>
+  <script>
+    const lenis = new Lenis();
+
+    function raf(time) {
+      lenis.raf(time);
       requestAnimationFrame(raf);
-    </script>
+    }
 
-    <!-- librairie aos -->
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script>
-      AOS.init();
-    </script>
-  </body>
+    requestAnimationFrame(raf);
+  </script>
+
+  <!-- librairie aos -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+</body>
+
 </html>

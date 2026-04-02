@@ -5,6 +5,7 @@ const slug = params.get("slug")
 fetch("data/formations.json")
   .then(res => res.json())
   .then(articles => {
+    console.log(articles);
 
     const article = articles.find(a => a.slug === slug)
 
