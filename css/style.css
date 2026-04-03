@@ -388,6 +388,12 @@ nav {
     linear-gradient(rgb(255 255 255 / 54%), rgb(251 251 251 / 36%)),
     url(../assets/heroFormations.webp);
 }
+#hero.hero_About {
+  background-image: linear-gradient(
+    rgb(255 255 255 / 54%),
+    rgb(251 251 251 / 36%)
+  );
+}
 
 /* Section Quote */
 .quote {
@@ -523,6 +529,71 @@ nav {
   border-radius: 10px;
   padding: 24px;
   cursor: pointer;
+}
+
+/* Page About  */
+#about-page {
+  #hero {
+    padding: 180px 24px 140px;
+    min-height: 60vh;
+    background-image:
+      radial-gradient(#c7b8c324, #ffffffbf), url(../assets/deroulement.webp);
+  }
+
+  #intro {
+    .container {
+      max-width: 1240px;
+      gap: 5vw;
+      .about_content-2-left {
+        padding-right: 0;
+      }
+      .about_image {
+        flex: 0 0 480px;
+        .about_image-1 {
+          padding-left: 0vw;
+
+          width: 100%;
+          .about_image-large {
+            width: 100%;
+            max-height: none;
+          }
+        }
+      }
+      .about_image-2 {
+        display: flex;
+        gap: 18px;
+        .virginie {
+          flex: 50%;
+          max-width: 50%;
+          border-radius: 4px;
+          object-fit: cover;
+        }
+      }
+    }
+  }
+
+  #services {
+    background-image:
+      radial-gradient(#e189bb14, #ffffff85), url(../assets/about-avenir-bg.webp);
+  }
+  #about {
+    background-image:
+      radial-gradient(#e189bb14, #ffffff85),
+      url(../assets/about-services-bg.webp);
+    .container {
+      justify-content: end;
+    }
+    .about_content-2-left {
+      flex-flow: column;
+      text-align: right;
+      display: flex;
+      flex: 1 1 480px;
+      max-width: 640px;
+      text-wrap-style: balance;
+
+      padding-right: 0;
+    }
+  }
 }
 
 /* section galerie */

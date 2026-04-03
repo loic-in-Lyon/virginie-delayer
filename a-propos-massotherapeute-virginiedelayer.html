@@ -1,52 +1,228 @@
 <!DOCTYPE html>
 <html lang="fr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="css/style.css" />
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
-  </head>
-  <body>
-    <!-- Header -->
-    <header>
-      <nav>
-        <div class="navLinks">
-          <a href="index.html">Accueil</a>
-          <a href="massages-soins.html">Soins</a>
-          <a href="formations-massotherapie.html">Formations</a>
-          <a href="a-propos-massotherapeute-virginiedelayer.html"
-            >Ma démarche</a
-          >
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <meta name="description" content="Massages bien-être, relaxation et soins du corps à Verson. Un espace dédié à la détente et à l’harmonie du corps et de l’esprit.
+  " />
+  <link rel="preload" as="image" href="assets/hero-bg.png" fetchpriority="high" />
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+</head>
+
+<body id="about-page">
+  <!-- Hero -->
+
+  <header class="paddingSection hero_About" id="hero">
+    <!-- Navbar -->
+    <nav>
+      <div class="navLinks">
+        <a href="index.html">Accueil</a>
+        <a href="massages-soins.html">Soins</a>
+        <a href="formations-massotherapie.html">Formations</a>
+        <a href="a-propos-massotherapeute-virginiedelayer.html">Ma démarche</a>
+      </div>
+      <img src="" alt="" class="logo" />
+      <div class="socials">
+        <a href="mailto:virginiedelayerbienetre@gmail.com" class="btn">Me contacter</a>
+      </div>
+    </nav>
+
+    <!-- Content -->
+    <h1>Un Voyage vers la Guérison et l'Harmonie</h1>
+    <p>
+      Découvrez le pouvoir transformateur du toucher bienveillant
+
+    </p>
+
+
+  </header>
+  <section class="paddingSection" id="intro">
+    <div class="container row">
+      <div class="about_content-2-left">
+        <h2 data-aos="fade-zoom-in" data-aos-duration="800">
+          <span>Virginie delayer</span>
+          Massothérapeuthe
+          <br />
+          <br />
+        </h2>
+        <p data-aos="fade-zoom-in" data-aos-duration="800" data-aos-delay="100" class="mb-6vh">
+          Animée par une passion profonde pour le bien-être, ma vie a été une quête constante d'équilibre et d'harmonie.
+          Cette recherche personnelle m'a conduite à embrasser diverses disciplines de la massothérapie et des soins
+          énergétiques. Chaque étape de mon parcours m'a permis de me reconnecter avec moi-même et de découvrir ma
+          véritable vocation : aider les autres à trouver leur propre chemin vers la sérénité, équilibre
+          corps-esprit-cœur, et la joie de vivre.
+        </p>
+        <div class="about_image-2 hide-tablet">
+          <img class="virginie" src="assets/virginie.webp" loading="lazy" sizes="(max-width: 1026px) 100vw, 1026px"
+            srcset="assets/virginie.webp" alt="virginie delayer" />
+          <div>
+            <h3 data-aos="fade-zoom-in" data-aos-duration="800">
+              La Dualité de Lyon Charme et Pression
+            </h3>
+            <p data-aos="fade-zoom-in" data-aos-duration="800" data-aos-delay="100" class="mb-6vh">
+              Lyon, ma ville natale, offre un cadre de vie qui mêle harmonieusement dynamisme culturel et beauté
+              historique. Ses cafés, ses festivals et ses quartiers pittoresques témoignent d'un riche patrimoine et
+              d'un art de vivre séduisant. Cependant, sous cette façade attrayante, la vie urbaine moderne à Lyon
+              présente également ses défis.
+
+              Comme de nombreux Lyonnais, j'ai ressenti la pression de jongler avec les exigences du quotidien. Cette
+              tension subtile, accumulée au fil du temps, affecte profondément notre bien-être.
+
+              Face à l'épuisement et au déséquilibre, j'ai pris conscience de la nécessité de me recentrer. Cette
+              recherche personnelle de paix intérieure est un chemin que j'ai sais partagé par de nombreux Lyonnais.
+            </p>
+          </div>
         </div>
-        <img src="" alt="" class="logo" />
-        <div class="socials">
-          <a href="mailto:virginiedelayerbienetre@gmail.com" class="btn"
-            >Me contacter</a
-          >
+      </div>
+      <div class="about_image">
+        <div class="about_image-1">
+          <img class="about_image-large" src="assets/bg_1.webp" loading="lazy" sizes="(max-width: 1026px) 100vw, 1026px"
+            srcset="assets/bg_1.webp" alt="fleur iris" />
         </div>
-      </nav>
-    </header>
 
-    <script src="js/script.js"></script>
+      </div>
+    </div>
+  </section>
+  <!-- Services-->
 
-    <!-- scroll doux librairie -->
-    <script src="https://cdn.jsdelivr.net/npm/@studio-freight/lenis@latest/dist/lenis.min.js"></script>
-    <script>
-      const lenis = new Lenis();
+  <section class="paddingSection" id="services">
+    <div class="container">
+      <h2>La Massotherapie
+        <span> Un Chemin Vers l'Equilibre pour Tous</span>
+      </h2>
+      <p class="mb-6vh">
+        Face aux turbulences de la vie citadine, j'ai trouvé refuge et passion dans la massothérapie. Cette pratique ne
+        s'est pas seulement avérée être un pilier pour ma propre sérénité, mais aussi un moyen d'apporter équilibre et
+        tranquillité aux autres. Je m'engage désormais à aider un éventail de personnes – de mes proches bien-aimés à
+        mes patients fidèles et mes élèves dévoués. Ensemble, nous explorons des techniques telles que le massage des 5
+        continents, créant ainsi un havre de paix et un espace de guérison et d'apprentissage. C'est dans cette union de
+        soins et d'enseignement que nous trouvons un équilibre et une sérénité loin de l'agitation de notre chère Lyon.
+      </p>
 
-      function raf(time) {
-        lenis.raf(time);
-        requestAnimationFrame(raf);
-      }
+    </div>
+  </section>
+  <!-- Quote -->
+  <section class="paddingSection quote bg-1">
+    <div class="container">
+      <img src="assets/lotus.webp" alt="fleur de lotus" />
+      <span>
+        "Être bien, c'est être soi"
+      </span>
+    </div>
+  </section>
 
+  <!-- Presentation-->
+
+  <section class="paddingSection" id="about">
+    <div class="container row">
+      <div class="about_content-2-left">
+        <h2 data-aos="fade-zoom-in" data-aos-duration="800">
+          Vers l'Avenir
+          <br />
+          <span>Mes Prochains Pas dans le Bien-etre</span>
+        </h2>
+        <p data-aos="fade-zoom-in" data-aos-duration="800" data-aos-delay="100" class="mb-6vh">
+          Je suis Virginie Delayer. Animée par ma passion et soutenue par une
+          expertise solide, je poursuis la mission d'enrichir votre vie en
+          vous aidant à retrouver équilibre, détente et joie. Ces
+          transformations, fruits de mes ambitions profondes, pourraient
+          réellement révolutionner votre quotidien.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- SeparatorSection -->
+  <!-- <section class="paddingSection separatorSection bg-2">
+    <div class="container">
+      <img src="assets/lotus.webp" alt="fleur de lotus" />
+    </div>
+  </section> -->
+
+  <!-- Testimonial -->
+
+  <!-- <section class="paddingSection bg-7" id="testimonial">
+    <div class="container row">
+      <div class="about_image invert">
+        <div class="about_image-1">
+          <img class="about_image-large rounded-img" src="assets/presentationFlower.webp" loading="lazy"
+            sizes="(max-width: 1026px) 100vw, 1026px" style="width: 81%" srcset="assets/bg_3.webp" alt="fleur iris" />
+        </div>
+        <div class="about_image-2 hide-tablet">
+          <img class="about_image-absolute rounded-img imgShadow" src="assets/" loading="lazy"
+            sizes="(max-width: 1026px) 100vw, 1026px" srcset="assets/bg_1.webp" alt="iris" />
+        </div>
+      </div>
+      <div class="about_content-2-left right">
+        <h2 data-aos="fade-zoom-in" data-aos-duration="800">
+          Témoignage
+          <br />
+          <span>Les echos de ma Communaute</span>
+        </h2>
+        <p data-aos="fade-zoom-in" data-aos-duration="800" data-aos-delay="100" class="mb-6vh">
+          L'impact de mes séances se mesure dans les mots de ceux qui ont été
+          touchés par ces expériences. Voici quelques témoignages de clients
+          et d'élèves qui reflètent l'essence de mon travail.
+        </p>
+        <p data-aos="fade-zoom-in" data-aos-duration="800" data-aos-delay="100" class="temoignage">
+          “J'ai laissé tomber mon armure... ou plutôt, c'est Virginie qui me
+          l'a ôtée. Ce carcan qui m'étouffait depuis des temps immémoriaux”
+          <span>Sophie B. </span>
+        </p>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- SeparatorSection -->
+  <section class="paddingSection separatorSection bg-3">
+    <div class="container">
+      <img src="assets/lotus.webp" alt="fleur de lotus" />
+    </div>
+  </section>
+
+  <!-- Section Cta -->
+  <section id="cta" class="bg-8">
+    <div class="container small">
+      <h2>
+        Me contacter
+        <span> Je suis a votre ecoute </span>
+      </h2>
+      <p class="mb-6vh">
+        Souhaitez-vous discuter de vos besoins en bien-être ou en savoir plus
+        sur les services et programmes d'apprentissage ? Laissez-moi votre
+        numéro, et je vous appellerais pour une conversation personnalisée. Je
+        crois en une approche directe et personnelle pour répondre au mieux à
+        vos attentes
+      </p>
+      <a href="mailto:virginiedelayerbienetre@gmail.com" class="btn">Me contacter</a>
+    </div>
+  </section>
+
+  <script src="js/script.js"></script>
+
+  <!-- scroll doux librairie -->
+  <script src="https://cdn.jsdelivr.net/npm/@studio-freight/lenis@latest/dist/lenis.min.js"></script>
+  <script>
+    const lenis = new Lenis();
+
+    function raf(time) {
+      lenis.raf(time);
       requestAnimationFrame(raf);
-    </script>
+    }
 
-    <!-- librairie aos -->
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script>
-      AOS.init();
-    </script>
-  </body>
+    requestAnimationFrame(raf);
+  </script>
+
+  <!-- librairie aos -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+</body>
+
 </html>
