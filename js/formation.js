@@ -10,11 +10,8 @@ fetch("data/formations.json")
     const article = articles.find((a) => a.slug === slug);
 
     const head = document.querySelector("head");
-    // créer le title
     const title = document.createElement("title");
-    // injecter le contenu
     title.textContent = article.resume;
-    // ajouter dans le head
     head.appendChild(title);
 
     if (!article) return;

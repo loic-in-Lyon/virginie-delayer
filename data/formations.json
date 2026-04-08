@@ -108,5 +108,89 @@
     "Équilibre physique, mental et émotionnel",
     "Mouvements simples en forme de 8"
   ]
+},
+{
+  "id": 9,
+  "slug": "sportif-suedois",
+  "title": "Sportif suédois",
+  "duree": "1 jour",
+  "prix": "—",
+  "resume": "Récupération et détente musculaire",
+  "content": "La formation en massage sportif suédois permet d’acquérir des techniques efficaces pour détendre les muscles en profondeur, favoriser la récupération et améliorer la circulation sanguine. Ce massage, à la fois tonique et enveloppant, est particulièrement adapté aux personnes actives ou sportives. Les participants apprennent à adapter la pression et les manœuvres en fonction des besoins du corps, afin de soulager les tensions, prévenir les douleurs et apporter un véritable mieux-être physique.",
+  "benefits": [
+    "Détente musculaire profonde",
+    "Amélioration de la récupération",
+    "Techniques adaptées aux besoins du corps"
+  ]
+},
+{
+  "id": 10,
+  "slug": "balinais",
+  "title": "Balinais",
+  "duree": "1 jour",
+  "prix": "—",
+  "resume": "Relaxation profonde et rééquilibrage du corps",
+  "content": "La formation en massage balinais permet de découvrir un soin complet, à la fois enveloppant et tonique, inspiré de traditions ancestrales. Ce massage associe différentes techniques visant à détendre le corps, stimuler la circulation et favoriser un profond lâcher-prise. Les participants apprennent à enchaîner des gestes fluides et harmonieux pour apporter relaxation, vitalité et équilibre global.",
+  "benefits": [
+    "Relaxation profonde",
+    "Stimulation de la circulation",
+    "Gestes fluides et harmonieux"
+  ]
+},
+{
+  "id": 11,
+  "slug": "orientale",
+  "title": "Orientale",
+  "duree": "1 jour",
+  "prix": "—",
+  "resume": "Détente sensorielle et lâcher-prise",
+  "content": "La formation en massage orientale invite à découvrir un rituel inspiré des traditions ancestrales, favorisant la détente du corps et de l’esprit. Ce massage, à la fois doux et enveloppant, utilise des mouvements fluides et rythmés pour relâcher les tensions et apaiser le mental. Les participants apprennent à créer une véritable expérience sensorielle, propice au lâcher-prise et au bien-être global.",
+  "benefits": [
+    "Détente profonde",
+    "Apaisement du mental",
+    "Expérience sensorielle enveloppante"
+  ]
+},
+{
+  "id": 12,
+  "slug": "kobido",
+  "title": "Kobido",
+  "duree": "1 jour",
+  "prix": "—",
+  "resume": "Éclat du visage et effet liftant naturel",
+  "content": "La formation au massage Kobido permet de découvrir un art ancestral japonais dédié à la beauté du visage. Ce massage allie des techniques précises, rythmées et profondes pour stimuler la circulation, tonifier les muscles du visage et raviver l’éclat de la peau. Les participants apprennent des gestes spécifiques visant à lisser les traits, détendre les tensions et offrir un véritable effet liftant naturel.",
+  "benefits": [
+    "Effet liftant naturel",
+    "Stimulation de la circulation",
+    "Éclat et tonus du visage"
+  ]
+},
+{
+  "id": 13,
+  "slug": "kansa-wand-visage",
+  "title": "Kansa wand visage",
+  "duree": "1 jour",
+  "prix": "—",
+  "resume": "Éclat du teint et équilibre énergétique",
+  "content": "La formation au massage Kansa wand du visage permet de découvrir l’utilisation d’un outil ancestral issu de la tradition ayurvédique. Ce massage associe gestes doux et utilisation du Kansa wand pour stimuler la circulation, détoxifier la peau et rééquilibrer les énergies. Les participants apprennent à pratiquer des manœuvres ciblées pour illuminer le teint, apaiser le visage et favoriser un profond bien-être.",
+  "benefits": [
+    "Éclat du teint",
+    "Détoxification de la peau",
+    "Rééquilibrage énergétique"
+  ]
+},
+{
+  "id": 14,
+  "slug": "gua-sha-visage",
+  "title": "Gua sha du visage",
+  "duree": "1 jour",
+  "prix": "—",
+  "resume": "Drainage et éclat naturel du visage",
+  "content": "La formation au massage Gua sha du visage permet d’apprendre l’utilisation d’un outil issu de la médecine traditionnelle chinoise pour stimuler la peau en douceur. Cette technique favorise le drainage, améliore la circulation et aide à lisser les traits du visage. Les participants découvrent des gestes précis pour décongestionner, illuminer le teint et apporter un effet relaxant immédiat.",
+  "benefits": [
+    "Drainage du visage",
+    "Amélioration de la circulation",
+    "Teint lumineux et apaisé"
+  ]
 }
 ]
