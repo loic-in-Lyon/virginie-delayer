@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "slug": "energetique",
+    "title": "Énergétique",
+    "duree": "1 jour et demi",
+    "prix": "360",
+    "resume": "Stimulation des points énergétiques du corps",
+    "content": "Le massage énergétique sert à stimuler les différents points d’énergie afin d’apaiser les tensions, de soulager les douleurs localisées et de revitaliser l’organisme. Durant la formation, vous apprendrez à masser toutes les parties du corps (dos, jambes, bras, ventre, tête) ; il sera apprécié par des mouvements de pressions, frictions, pétrissages, lissages... Vous apprendrez également les bases du magnétisme (l’ancrage, canaliser et transférer l’énergie, élever le taux vibratoire, le rééquilibrage des énergies…).",
+    "benefits": [
+      "Enchaînement de plusieurs mouvements permettant un lâcher prise impressionnant",
+      "Utilisation d’huiles essentielles",
+      "Rééquilibrage des chakras",
+      "Harmonise le corps, le cœur et l’esprit"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "lomi-lomi",
+    "title": "Lomi Lomi",
+    "duree": "1 jour",
+    "prix": "260",
+    "resume": "Massage hawaïen pour l'harmonie et la relaxation",
+    "content": "Participez à notre formation en massage Lomi Lomi, une technique hawaïenne unique et profondément enrichissante. Le Lomi Lomi est un massage à la fois fluide et enveloppant, mêlant douceur et dynamisme. Il est reconnu pour ses longs mouvements fluides qui couvrent plusieurs parties du corps simultanément, évoquant la sensation apaisante des vagues de l'océan. Cette formation est conçue pour être à la fois dynamique et ludique, garantissant l'acquisition de solides bases pour une pratique experte du massage Lomi Lomi.",
+    "benefits": [
+      "Massage avec les avants-bras",
+      "Étirement doux"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "californien",
+    "title": "Californien",
+    "duree": "1 jour",
+    "prix": "240",
+    "resume": "Détente corporelle",
+    "content": "La formation en massage californien vous initiera à cette technique de relaxation réputée pour sa douceur et son efficacité à réduire le stress et l'anxiété. Ce type de massage utilise des mouvements lents et circulaires, favorisant ainsi une meilleure circulation sanguine et lymphatique. Parfait pour les débutants, le massage californien est simple à apprendre et constitue une excellente base pour ceux qui débutent dans l'art du massage.",
+    "benefits": [
+      "Détente musculaire",
+      "Réduction du stress",
+      "Formation pour apprendre les bases du massage"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "lahochi",
+    "title": "Lahochi",
+    "duree": "1 jour (présentiel) / 1h - 1h30 (à distance)",
+    "prix": "120 / 85",
+    "resume": "Guérison énergétique et équilibrage par la lumière",
+    "content": "Vous découvrirez la puissance de cette lumineuse énergie, douce et facile à canaliser par simple apposition des mains ainsi que les innombrables bienfaits que l’on peut lui attribuer. Accessible à tous, le Lahochi consiste à stimuler et harmoniser nos capacités de guérison et d’auto-guérison. Ce soin s’applique aux humains, aux animaux ainsi qu’aux plantes. On l’appelle également « énergie du cœur ».",
+    "benefits": [
+      "Facile à apprendre",
+      "Canalisation d'énergie",
+      "Pour soi ou pour les autres"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "metamorphique",
+    "title": "Métamorphique",
+    "duree": "7 heures (1 jour)",
+    "prix": "170",
+    "resume": "Thérapie holistique pour l'équilibre intérieur profond",
+    "content": "La technique métamorphique, appelée aussi « Métamorphose », est une approche de la santé holistique. Elle se pratique par de légers effleurements sur les zones réflexes de la colonne vertébrale au niveau des pieds, des mains et de la tête. Cette zone réflexe contient la source de notre mémoire cellulaire. En sollicitant cette zone, les personnes expriment souvent des souvenirs lointains et enfouis, des liens avec le père, la mère et les lignées respectives. Elle permet un éveil de la conscience – et de là s’opère un processus de guérison. Il est possible de recevoir des séances de Métamorphose à tout âge et quel que soit notre état de santé. On vient aider à la libération transgénérationnelle.",
+    "benefits": [
+      "Comprendre le processus de libération",
+      "Retrouver notre plein potentiel"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "kansa-corps",
+    "title": "Kansa Corps",
+    "duree": "1 jour et demi",
+    "prix": "360",
+    "resume": "Expérience sensorielle",
+    "content": "La formation en massage Kansa Corps offre une immersion dans une technique ancienne de guérison indienne utilisant un bol en alliage de métaux spécifique. Cette formation enseigne les principes fondamentaux de cette pratique, y compris la manipulation du bol Kansa pour stimuler les points énergétiques du corps, favoriser la circulation sanguine et lymphatique, et éliminer les toxines. Un massage corps ultra complet, unique en son genre, alternant massage avec kansa et massage manuel. Une nouvelle vision libératrice pour une connexion au cœur de son être et un bien-être corps, âme et esprit.",
+    "benefits": [
+      "Apprentissage de deux techniques : passage avec le kansa et passage manuel",
+      "Expérience unique"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "kansa-wands-visage",
+    "title": "Kansa Wands Visage",
+    "duree": "1 jour",
+    "prix": "170",
+    "resume": "Expérience sensorielle",
+    "content": "La formation en massage Kansa Wands pour le visage offre une approche spécialisée de la thérapie esthétique et du bien-être, utilisant des baguettes en alliage de métaux spécifiques pour revitaliser et rajeunir la peau. Les participants apprennent les techniques précises de ce massage facial, qui impliquent l'utilisation experte des baguettes Kansa pour masser doucement les muscles du visage, stimuler la circulation sanguine, réduire l'apparence des ridules et des rides, tonifier la peau et favoriser un éclat naturel.",
+    "benefits": [
+      "Peut être utilisé en auto-massage",
+      "Rééquilibre le pH de la peau",
+      "Réduit les rides"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "lemniscate",
+    "title": "Lémniscate",
+    "duree": "1 jour",
+    "prix": "260",
+    "resume": "Dynamisme énergétique",
+    "content": "La formation en massage lemniscate offre une approche novatrice de la thérapie corporelle, utilisant des mouvements circulaires pour stimuler les flux d'énergie dans le corps et favoriser l'harmonisation des systèmes physiques, émotionnels et énergétiques. Les participants apprennent les techniques spécifiques de ce massage, qui peuvent inclure des mouvements fluides et rythmiques conçus pour réduire le stress, relâcher les tensions musculaires, améliorer la circulation et promouvoir un état de bien-être global.",
+    "benefits": [
+      "Équilibre énergétique",
+      "Équilibre physique, mental et émotionnel",
+      "Mouvements simples en forme de 8"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "sportif-suedois",
+    "title": "Sportif suédois",
+    "duree": "1 jour et demi",
+    "prix": "360",
+    "resume": "Récupération et détente musculaire",
+    "content": "La formation en massage sportif suédois permet d’acquérir des techniques efficaces pour détendre les muscles en profondeur, favoriser la récupération et améliorer la circulation sanguine. Ce massage, à la fois tonique et enveloppant, est particulièrement adapté aux personnes actives ou sportives. Les participants apprennent à adapter la pression et les manœuvres en fonction des besoins du corps, afin de soulager les tensions, prévenir les douleurs et apporter un véritable mieux-être physique.",
+    "benefits": [
+      "Détente musculaire profonde",
+      "Amélioration de la récupération",
+      "Techniques adaptées aux besoins du corps"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "balinais",
+    "title": "Balinais",
+    "duree": "1 jour",
+    "prix": "240",
+    "resume": "Relaxation profonde et rééquilibrage du corps",
+    "content": "La formation en massage balinais permet de découvrir un soin complet, à la fois enveloppant et tonique, inspiré de traditions ancestrales. Ce massage associe différentes techniques visant à détendre le corps, stimuler la circulation et favoriser un profond lâcher-prise. Les participants apprennent à enchaîner des gestes fluides et harmonieux pour apporter relaxation, vitalité et équilibre global.",
+    "benefits": [
+      "Relaxation profonde",
+      "Stimulation de la circulation",
+      "Gestes fluides et harmonieux"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "orientale",
+    "title": "Orientale",
+    "duree": "1 jour",
+    "prix": "240",
+    "resume": "Détente sensorielle et lâcher-prise",
+    "content": "La formation en massage orientale invite à découvrir un rituel inspiré des traditions ancestrales, favorisant la détente du corps et de l’esprit. Ce massage, à la fois doux et enveloppant, utilise des mouvements fluides et rythmés pour relâcher les tensions et apaiser le mental. Les participants apprennent à créer une véritable expérience sensorielle, propice au lâcher-prise et au bien-être global.",
+    "benefits": [
+      "Détente profonde",
+      "Apaisement du mental",
+      "Expérience sensorielle enveloppante"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "kobido",
+    "title": "Kobido",
+    "duree": "1 jour",
+    "prix": "240",
+    "resume": "Éclat du visage et effet liftant naturel",
+    "content": "La formation au massage Kobido permet de découvrir un art ancestral japonais dédié à la beauté du visage. Ce massage allie des techniques précises, rythmées et profondes pour stimuler la circulation, tonifier les muscles du visage et raviver l’éclat de la peau. Les participants apprennent des gestes spécifiques visant à lisser les traits, détendre les tensions et offrir un véritable effet liftant naturel.",
+    "benefits": [
+      "Effet liftant naturel",
+      "Stimulation de la circulation",
+      "Éclat et tonus du visage"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "gua-sha-visage",
+    "title": "Gua sha du visage",
+    "duree": "1 jour",
+    "prix": "170",
+    "resume": "Drainage et éclat naturel du visage",
+    "content": "La formation au massage Gua sha du visage permet d’apprendre l’utilisation d’un outil issu de la médecine traditionnelle chinoise pour stimuler la peau en douceur. Cette technique favorise le drainage, améliore la circulation et aide à lisser les traits du visage. Les participants découvrent des gestes précis pour décongestionner, illuminer le teint et apporter un effet relaxant immédiat.",
+    "benefits": [
+      "Drainage du visage",
+      "Amélioration de la circulation",
+      "Teint lumineux et apaisé"
+    ]
+  }
+]

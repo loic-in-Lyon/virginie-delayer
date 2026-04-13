@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "slug": "des-5-continents",
+    "title": "des-5-continents",
+    "duree": "1h30",
+    "prix": "80",
+    "resume": "Équilibre énergétique",
+    "content": "Un soin énergétique combinant Reiki et/ou Magnétisme avec des massages de cultures variées (lomi lomi, californien, suédois, tuina, ayurvédique) et huiles essentielles.",
+    "benefits": [
+      "Détente et lâcher prise",
+      "Libération des toxines",
+      "Circulation de l'énergie",
+      "Confiance en soi",
+      "Renforcement immunitaire",
+      "Harmonisation émotionnelle et corporelle"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "aux-bols-tibetains",
+    "title": "Aux Bols Tibétains",
+    "duree": "1h30",
+    "prix": "90",
+    "resume": "Sonothérapie relaxante et énergétique",
+    "content": "Un soin énergétique qui utilise les vibrations et sonorités des bols tibétains, accompagné d'un doux massage du corps, pour stimuler les méridiens et promouvoir l'autoguérison.",
+    "benefits": [
+      "Lâcher prise total",
+      "Réduction du stress",
+      "Calme du système nerveux",
+      "Harmonisation corps-esprit",
+      "Rééquilibrage énergétique",
+      "Relaxation profonde",
+      "Soulagement des tensions et douleurs",
+      "Connexion avec soi"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "lahochi",
+    "title": "Lahochi",
+    "duree": "1h",
+    "prix": "50",
+    "resume": "Guérison énergétique et équilibrage par la lumière",
+    "content": "Le Lahochi est une technique de soin énergétique transmise par l'apposition des mains, utilisant des fréquences lumineuses pour la guérison et l'équilibrage.",
+    "benefits": [
+      "Bien-être général",
+      "Accélération de la guérison",
+      "Nettoyage des chakras",
+      "Stimulation du système immunitaire",
+      "Revitalisation du corps et de l'esprit",
+      "Réduction du stress et de la douleur",
+      "Relaxation profonde"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "lomi-lomi",
+    "title": "Lomi Lomi",
+    "duree": "1h",
+    "prix": "70",
+    "resume": "Technique hawaïenne pour l'harmonie et la relaxation",
+    "content": "Originaire d'Hawaï, cette pratique polynésienne relie le corps, le cœur et l'esprit. Il est effectué principalement avec les mains et les avant-bras, évoquant les vagues douces de l'océan.",
+    "benefits": [
+      "Améliore la circulation sanguine et lymphatique",
+      "Aide à l'élimination des déchets corporels",
+      "Renforce la confiance et l'estime de soi",
+      "Apporte confort et réconfort"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "metamorphique",
+    "title": "Métamorphique",
+    "duree": "3 séances",
+    "prix": "150",
+    "resume": "Thérapie holistique pour l'équilibre intérieur profond",
+    "content": "Une approche holistique qui utilise des effleurements légers sur les zones réflexes de la colonne vertébrale, pour libérer les blocages héréditaires et émotionnels et revitaliser l'énergie vitale.",
+    "benefits": [
+      "Libération des blocages de vie",
+      "Création de nouveaux circuits neuronaux",
+      "Élévation du taux vibratoire",
+      "Libération mentale",
+      "Guérison trans-générationnelle"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "kansa-corps",
+    "title": "Kansa Corps",
+    "duree": "1h",
+    "prix": "70",
+    "resume": "Expérience sensorielle",
+    "content": "Le massage Kansa Corps, utilisant un bol en alliage de métaux spécifiques, offre une expérience holistique de bien-être, favorisant la détente profonde, l'élimination des toxines et l'équilibre énergétique du corps.",
+    "benefits": [
+      "Relaxation musculaire",
+      "Réduction du stress",
+      "Stimulation de la circulation sanguine",
+      "Amélioration du sommeil",
+      "Renforcement du bien-être émotionnel"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "californien",
+    "title": "Californien",
+    "duree": "1h",
+    "prix": "70",
+    "resume": "Détente corporelle",
+    "content": "Le massage californien offre une expérience relaxante et enveloppante, alliant des mouvements fluides et doux pour libérer les tensions et favoriser la détente profonde du corps et de l'esprit.",
+    "benefits": [
+      "Relaxation musculaire",
+      "Réduction du stress",
+      "Stimulation de la circulation sanguine",
+      "Amélioration du sommeil",
+      "Renforcement du bien-être émotionnel"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "lemniscate",
+    "title": "Lemniscate",
+    "duree": "1h",
+    "prix": "70",
+    "resume": "Dynamisme énergétique",
+    "content": "Le massage lemniscate offre une approche innovante et harmonieuse, utilisant des mouvements circulaires pour soulager les tensions et favoriser l'équilibre énergétique du corps et de l'esprit.",
+    "benefits": [
+      "Harmonisation du corps et de l'esprit",
+      "Relaxation profonde",
+      "Stimulation de la circulation",
+      "Soulagement musculaire",
+      "Amélioration de la flexibilité"
+    ]
+  }
+]
