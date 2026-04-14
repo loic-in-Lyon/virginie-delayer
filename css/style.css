@@ -342,17 +342,22 @@ img {
   inset: auto 10vw 10vw auto;
 }
 nav {
-  position: absolute;
-  inset: 0 0 auto 0;
-  display: flex;
-  justify-content: space-between;
-  padding: 17px 48px;
-  align-items: center;
+    position: absolute;
+    inset: 0 0 auto 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 48px;
+    align-items: center;
+    backdrop-filter: blur(1px);
+    background: radial-gradient(ellipse farthest-corner at 10% 10%, #fff8fd54, #f5f4fc0d, #ffffff00);
+    box-shadow: rgb(158 107 138 / 14%) 0px 4px 30px;
+    border: 1px solid rgb(255 255 255 / 83%);
   .navLinks {
     display: flex;
     gap: 32px;
     text-transform: capitalize;
     letter-spacing: 0.04rem;
+    font-size: 18px;
   }
   .socials {
     display: flex;
