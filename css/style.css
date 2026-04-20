@@ -350,8 +350,8 @@ nav {
     align-items: center;
     backdrop-filter: blur(1px);
     background: radial-gradient(ellipse farthest-corner at 10% 10%, #fff8fd54, #f5f4fc0d, #ffffff00);
-    box-shadow: rgb(158 107 138 / 14%) 0px 4px 30px;
-    border: 1px solid rgb(255 255 255 / 83%);
+    box-shadow: rgb(158 107 138 / 6%) 0px 4px 30px;
+    border: 1px solid rgb(255 255 255 / 28%);
   .navLinks {
     display: flex;
     gap: 32px;
@@ -372,7 +372,7 @@ nav {
 /* Section Hero */
 #hero {
   position: relative;
-  min-height: 100vh;
+  min-height: 80vh;
   background-image:
     linear-gradient(rgb(255 255 255 / 54%), rgb(251 251 251 / 36%)),
     url(../assets/hero-bg.webp);
@@ -598,6 +598,23 @@ nav {
 
       padding-right: 0;
     }
+  }
+  #ecoles{
+    background-image:
+      radial-gradient(#e189bb14, #ffffff85), url(../assets/about-avenir-bg.webp);
+    background-position: center, center;
+    background-size: cover, cover;
+    background-repeat: no-repeat, no-repeat;
+    h2{
+      margin-bottom: 6vh;
+    }
+    ul {
+      list-style: none;
+      margin-block: 24px;
+      gap: 2px;
+      display: flex;
+      flex-direction: column;
+  }
   }
 }
 
